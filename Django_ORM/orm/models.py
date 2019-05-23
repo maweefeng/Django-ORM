@@ -7,6 +7,7 @@ class Aritcle(models.Model):
     title = models.TextField()
     brief_content = models.TextField(default='这位同学很懒哦')
     content = models.TextField()
+    star = models.SmallIntegerField()
     publish_date = models.DateTimeField(auto_now=True)
 
 
