@@ -1,0 +1,9 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "/Users/alexwee/Documents/Django项目/Django-ORM/Django_ORM/db.sqlite3",
+            "dialect": "SQLite",
+            "name": "orm"
+        }
+    ]
+}
